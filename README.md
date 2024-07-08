@@ -1,10 +1,9 @@
-<h1>Hi, I'm hihubiqwf!</h1>
+<h1>Current Projects:</h1>
 
-<h2>🌱 Current Projects:</h2>
-<h3>PowerShell</h3>
-  
-- [Active Directory Home Lab](https://monkeytype.com/)
+> [Active Directory DS Home Lab](https://monkeytype.com/)
 
-<h2>🌳 Past Projects</h2>
+> [Azure SIEM](https://monkeytype.com/)
+<br>
+<h1>Past Projects:</h1>
 
-- [Basic FIM (File Integrity Monitor)](https://monkeytype.com/)
+> [PowerShell File Integrity Monitor](https://monkeytype.com/)
