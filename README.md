@@ -4,6 +4,10 @@
   - [Active Directory DS Home Lab](https://monkeytype.com/)
   
   - [Azure SIEM](https://monkeytype.com/)
+    
+  - Basic Keylogger
+  
+  - FileEncrypt POC
   
   - Learning C
   </strong>
