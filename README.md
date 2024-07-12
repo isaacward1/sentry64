@@ -6,8 +6,6 @@
   - [Azure SIEM](https://monkeytype.com/)
   
   - Learning C
-
-  - <a href="https://monkeytype.com" target="_blank">Epic poject</a>
   </strong>
 
 <br>
