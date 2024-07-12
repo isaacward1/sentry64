@@ -1,11 +1,12 @@
-<h1>Current Projects:</h1>
+<h1>🚀 Current Projects:</h1>
+  
+  - [Active Directory DS Home Lab](https://monkeytype.com/)
+  
+  - [Azure SIEM](https://monkeytype.com/)
+  
+  - Learning C
 
-> [Active Directory DS Home Lab](https://monkeytype.com/)
-
-> [Azure SIEM](https://monkeytype.com/)
-
-> Learning C
 <br>
-<h1>Past Projects:</h1>
+<h1>📅 Past Projects:</h1>
 
-> [PowerShell File Integrity Monitor](https://monkeytype.com/)
+- [PowerShell File Integrity Monitor](https://monkeytype.com/)
