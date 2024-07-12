@@ -1,9 +1,9 @@
 <h1>🚀 Current Projects:</h1>
   <strong>
     
-  - [Active Directory DS Home Lab](https://monkeytype.com/)
+  - Active Directory DS Home Lab
   
-  - [Azure SIEM](https://monkeytype.com/)
+  - AWS SIEM
     
   - Basic Keylogger
   
