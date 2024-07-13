@@ -32,7 +32,5 @@
 <h1>:wrench: Tools</h1>
 
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="75" height="75">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="75" height="75">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/kali2.PNG" width="75" height="75">
 </div>
