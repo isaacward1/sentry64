@@ -32,8 +32,9 @@
 <h1>:wrench: Tools:</h1>
 
 <div style="display: flex;">
-  <img src="https://github.com/sentry64/sentry64/blob/main/images/vmware2.png" width="75" height="75">
-  <img src="https://github.com/sentry64/sentry64/blob/main/images/kali2.PNG" width="75" height="75">
-  <img src="https://github.com/sentry64/sentry64/blob/main/images/wireshark.PNG" width="75" height="75">
-  <img src="https://github.com/sentry64/sentry64/blob/main/images/nmap.svg" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/vmware-workstation.png" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/kali-linux.png" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/wireshark.png" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/nmap.png" width="75" height="75">
+  <img src="https://github.com/sentry64/sentry64/blob/main/images/metasploit.png" width="75" height="75">
 </div>
