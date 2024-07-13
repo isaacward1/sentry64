@@ -25,7 +25,7 @@
 <div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="75" height="75">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" width="75" height="75">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75">
 </div>
 
 <br>
