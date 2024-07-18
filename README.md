@@ -33,8 +33,10 @@
 
 <div style="display: flex;">
   <img src="/images/vmware-workstation.png" width="75" height="75" title="VMware Workstation">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="75" height="75" title="VS Code">
   <img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
   <img src="images/wireshark.png" alt="Description of the image" title="Wireshark" width="75" height="75">
   <img src="images/nmap.png" alt="Description of the image" title="Nmap" width="75" height="75">
   <img src="/images/metasploit.png" width="75" height="75" title="Metasploit">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="75" height="75" title="DBeaver">
 </div>
