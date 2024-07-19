@@ -11,8 +11,9 @@
   - Basic Keylogger
   
   - FileEncrypt POC
+    
+  - Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" title="C">
   
-  - Learning C
   </strong>
 <br>
 
@@ -23,7 +24,7 @@
 </strong>
 <br>
 
-## :snake: Languages & Tools :wrench::
+## 🐍 Languages & Tools 🛠️:
 
 <div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75" title="Python">
