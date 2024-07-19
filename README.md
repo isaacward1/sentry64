@@ -1,4 +1,4 @@
-# Hey there :wave:, I'm Isaac!
+# Hey there :wave:, I'm Isaac! 😎
 <br>
 
 ## 🚀 Current Projects:
