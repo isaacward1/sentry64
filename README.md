@@ -20,7 +20,8 @@
 ## 📅 Past Projects:
 <strong>
   
-- [PowerShell File Integrity Monitor](https://github.com/sentry64/PowerShell-FIM)
+- PowerShell File Integrity Monitor
+
 </strong>
 <br>
 
