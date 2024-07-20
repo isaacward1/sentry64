@@ -6,13 +6,15 @@
   
   - Active Directory DS Home Lab
   
-  - AWS SIEM
+  - Microsoft Seninel SIEM via Azure
     
   - Basic Keylogger
   
   - FileEncrypt POC
     
-  - Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" title="C">
+  - Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">
+
+  - Nessus Home Lab
   
   </strong>
 <br>
