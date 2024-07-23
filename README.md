@@ -4,17 +4,13 @@
 ## 🚀 Current Projects:
   <strong>
   
-  - Active Directory DS Home Lab
-  
-  - Microsoft Seninel SIEM via Azure
+  - Azure Sentinel SIEM Home Lab
     
   - Basic Keylogger
   
   - FileEncrypt POC
     
   - Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">
-
-  - Nessus Home Lab
   
   </strong>
 <br>
@@ -23,6 +19,10 @@
 <strong>
   
 - PowerShell File Integrity Monitor
+
+- Active Directory DS Automation
+
+- OpenVAS Home Lab
 
 </strong>
 <br>
