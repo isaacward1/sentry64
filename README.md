@@ -20,7 +20,7 @@
   
 - PowerShell File Integrity Monitor
 
-- Active Directory DS Automation
+- ADDS Deployment Automation
 
 - OpenVAS Home Lab
 
