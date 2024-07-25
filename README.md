@@ -20,9 +20,9 @@
   
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
-- AD-DS Deployment Automation
+- AD DS Deployment Automation
 
-- OpenVAS Home Lab
+- OpenVAS ETL
 
 </strong>
 <br>
