@@ -4,11 +4,11 @@
 ## 🚀 Current Projects:
   <strong>
   
-  - Azure Sentinel SIEM Home Lab
-    
-  - Basic Keylogger
+  - Azure Sentinel SIEM HomeLab
   
   - FileEncrypt POC
+
+  - Nessus HomeLab
     
   - Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">
   
@@ -22,7 +22,7 @@
 
 - AD DS Deployment Automation
 
-- OpenVAS ETL
+- Basic Keylogger
 
 </strong>
 <br>
