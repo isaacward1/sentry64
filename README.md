@@ -18,7 +18,7 @@
 ## 📅 Past Projects:
 <strong>
   
-- PowerShell File Integrity Monitor
+- [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
 - AD-DS Deployment Automation
 
