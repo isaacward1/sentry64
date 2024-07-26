@@ -4,7 +4,7 @@
 ## 🚀 Current Projects:
   <strong>
   
-  - Azure Sentinel SIEM HomeLab
+  - Azure Sentinel SIEM Deployment
   
   - FileEncrypt POC
 
@@ -20,7 +20,7 @@
   
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
-- AD DS Deployment Automation
+- [Active Directory Home Lab](github.com/isaacward1/AD-HomeLab)
 
 - Basic Keylogger
 
