@@ -24,6 +24,8 @@
 
 - Basic Keylogger
 
+- Wazuh SIEM/XDR Deployment
+
 </strong>
 <br>
 
