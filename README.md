@@ -4,7 +4,7 @@
 ## 🚀 Current Projects:
   <strong>
   
-  - Azure Sentinel SIEM Deployment
+  - Honeypot w/ Azure Sentinel Monitoring
   
   - FileEncrypt POC
 
