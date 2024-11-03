@@ -18,7 +18,7 @@
   
   - Honeypot w/ Azure Sentinel Integration
   
-  - FileEncrypt POC
+  - File Encryptor POC
 
   - OpenVAS Database Automation
 
