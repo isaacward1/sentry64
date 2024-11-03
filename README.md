@@ -4,6 +4,8 @@
 ## 📌 Current Projects:
   <strong>
 
+  - Security Home Lab Server
+
   - VPS Tor Node Tutorial
     
   - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">](https://github.com/isaacward1/C)
@@ -14,7 +16,7 @@
 ## 🚀 Future Projects:
   <strong>
   
-  - Honeypot w/ Azure Sentinel Monitoring
+  - Honeypot w/ Azure Sentinel Integration
   
   - FileEncrypt POC
 
