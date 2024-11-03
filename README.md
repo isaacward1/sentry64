@@ -1,7 +1,17 @@
-# Hey there :wave:, I'm Isaac! 😎
+<h1> Hey there :wave:, I'm Isaac! 😎 </h1>
 <br>
 
-## 🚀 Current Projects:
+## 📌 Current Projects:
+  <strong>
+
+  - VPS Tor Node Tutorial
+    
+  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">](https://github.com/isaacward1/C)
+  
+  </strong>
+<br>
+
+## 🚀 Future Projects:
   <strong>
   
   - Honeypot w/ Azure Sentinel Monitoring
@@ -10,10 +20,6 @@
 
   - OpenVAS Database Automation
 
-  - VPS Tor Node Tutorial
-    
-  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">](https://github.com/isaacward1/C)
-  
   </strong>
 <br>
 
