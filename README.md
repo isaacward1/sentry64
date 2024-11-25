@@ -4,12 +4,12 @@
 ## 📌 Current Projects:
   <strong>
 
-  - Security Home Lab Server
+  - Simple Python Infostealer (Tutorial)
 
-  - VPS Tor Node Tutorial
+  - Home Security Server
+
+  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C"> & ](https://github.com/isaacward1/C)
     
-  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C">](https://github.com/isaacward1/C)
-  
   </strong>
 <br>
 
@@ -21,6 +21,8 @@
   - File Encryptor POC
 
   - OpenVAS Database Automation
+  
+  - VPS Tor Node (Tutorial)
 
   </strong>
 <br>
@@ -31,8 +33,6 @@
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
 - [Active Directory Home Lab](https://github.com/isaacward1/AD-HomeLab)
-
-- Basic Keylogger
 
 - Wazuh SIEM/XDR Deployment
 
