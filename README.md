@@ -8,7 +8,7 @@
 
   - Home Security Server
 
-  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" title="C"> & ](https://github.com/isaacward1/C)
+  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="24" height="24" title="C">](https://github.com/isaacward1/C)
     
   </strong>
 <br>
