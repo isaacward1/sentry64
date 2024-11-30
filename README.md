@@ -4,7 +4,7 @@
 ## 📌 Current Projects:
   <strong>
 
-  - Simple Python Infostealer (Tutorial)
+  - Python Infostealer POC
 
   - Home Security Server
 
