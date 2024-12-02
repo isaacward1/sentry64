@@ -46,6 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="75" height="75" title="Bash">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75" title="MariaDB">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="75" height="75" title="SQLite">
   
   <img src="/images/vmware-workstation.png" width="75" height="75" title="VMware Workstation">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="75" height="75" title="VS Code">
