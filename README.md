@@ -4,7 +4,7 @@
 ## 📌 Current Projects:
   <strong>
 
-  - Python Infostealer POC
+  - [Simple Python Infostealer](https://github.com/isaacward1/py-glutton)
 
   - Home Security Server
 
