@@ -55,4 +55,5 @@
   <img src="images/wireshark.png" alt="Description of the image" title="Wireshark" width="75" height="75">
   <img src="images/nmap.png" alt="Description of the image" title="Nmap" width="75" height="75">
   <img src="/images/metasploit.png" width="75" height="75" title="Metasploit">
+  <img src="/images/nessus.png" width="75" height="75" title="Nessus">
 </div>
