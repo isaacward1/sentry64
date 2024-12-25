@@ -34,7 +34,7 @@
 
 - [Active Directory Home Lab](https://github.com/isaacward1/AD-HomeLab)
 
-- [Wazuh SIEM/XDR Deployment](https://github.com/isaacward1/homeserv-sec/Wazuh)
+- [Wazuh SIEM/XDR Deployment](https://github.com/isaacward1/homeserv-sec/tree/main/Wazuh)
 
 </strong>
 <br>
