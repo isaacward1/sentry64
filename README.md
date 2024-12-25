@@ -6,7 +6,7 @@
 
   - [Simple Python Infostealer](https://github.com/isaacward1/py-glutton)
 
-  - Home Security Server
+  - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
   - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="24" height="24" title="C">](https://github.com/isaacward1/C)
     
