@@ -16,13 +16,13 @@
 ## 🚀 Future Projects:
   <strong>
   
-  - Honeypot w/ Azure Sentinel Integration
+  - Honeypot w/ Azure Sentinel
   
-  - File Encryptor POC
+  - PowerShell Ransomware POC
 
-  - OpenVAS Database Automation
+  - GVM to Database Automation
   
-  - VPS Tor Node (Tutorial)
+  - Oracle Cloud VPN + Tor Relay (Tutorial)
 
   </strong>
 <br>
@@ -34,7 +34,7 @@
 
 - [Active Directory Home Lab](https://github.com/isaacward1/AD-HomeLab)
 
-- Wazuh SIEM/XDR Deployment
+- [Wazuh SIEM/XDR Deployment](https://github.com/isaacward1/homeserv-sec/Wazuh)
 
 </strong>
 <br>
