@@ -58,6 +58,6 @@
   <img src="/images/metasploit.png" width="75" height="75" title="Metasploit">
   <img src="/images/nessus.png" width="75" height="75" title="Nessus">
   <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/greenbone.svg" width="75" height="75" title="GVM">
-  <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/wazuh-opaque.svg" width="75" height="75" title="Wazuh">
-  <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/wazuh.svg" width="75" height="75" title="Wazuh">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
 </div>
