@@ -8,7 +8,6 @@
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
-  - [Learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="24" height="24" title="C">](https://github.com/isaacward1/C)
     
   </strong>
 <br>
@@ -43,6 +42,7 @@
 
 <div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75" title="Python">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="75" height="75" title="C">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="75" height="75" title="Bash">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75" title="MariaDB">
