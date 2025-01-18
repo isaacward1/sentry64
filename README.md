@@ -17,11 +17,11 @@
   
   - Honeypot w/ Azure Sentinel
   
-  - PowerShell Ransomware POC
+  - PowerShell Ransomware Example
 
   - GVM to Database Automation
   
-  - Oracle Cloud VPN + Tor Relay (Tutorial)
+  - Oracle VPS (Wireguard VPN, Tor Relay)
 
   </strong>
 <br>
